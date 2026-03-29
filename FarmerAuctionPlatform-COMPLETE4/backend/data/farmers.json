@@ -1,0 +1,210 @@
+[
+  {
+    "id": "e9980513-4242-447c-b6cc-1a0f88b4878a",
+    "name": "Ravi Kumar",
+    "phone": "9876543210",
+    "state": "Karnataka",
+    "district": "Kolar",
+    "address": "Village Mulbagal, Kolar District",
+    "crops": [
+      "Tomato",
+      "Onion",
+      "Potato"
+    ],
+    "password": "$2a$10$Dhmo.zR./OU2I0RUbeMX5uZHRXQKpXqTeLZi9/4lBHTEJrxAAhl/K",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "verified": true,
+    "bankAccount": "1234567890123456",
+    "ifscCode": "SBIN0001234",
+    "experience": "15 years",
+    "farmSize": "5 acres",
+    "organicCertified": true,
+    "createdAt": "2025-05-29T02:54:23.318Z"
+  },
+  {
+    "id": "12cdf79d-cce1-45a5-96f7-46b4afe724ba",
+    "name": "Sita Devi",
+    "phone": "9876543211",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "address": "Lasalgaon, Nashik District",
+    "crops": [
+      "Onion",
+      "Grapes",
+      "Pomegranate"
+    ],
+    "password": "$2a$10$Rd.LgOMf1a6FomX1cS.49ObQQqq82ij7.vWrFe6HYjO/Y31QRx/7u",
+    "userType": "farmer",
+    "language": "hi",
+    "isActive": true,
+    "verified": true,
+    "bankAccount": "0987654321098765",
+    "ifscCode": "HDFC0001234",
+    "experience": "12 years",
+    "farmSize": "8 acres",
+    "organicCertified": false,
+    "createdAt": "2025-05-29T02:54:23.520Z"
+  },
+  {
+    "id": "882e60d5-e19d-4441-b239-1ce7aff2a2a9",
+    "name": "Dhanush M",
+    "phone": "08660767199",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Groundnut",
+      "Peas"
+    ],
+    "password": "$2a$10$7jXSyjBVXV.iti/ixhsLb.hotFcXvi275GZ7eGrg3VMXsPwqW86mO",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-10-15T09:36:57.162Z"
+  },
+  {
+    "id": "e0a29e21-3bc2-4f35-b8d6-e2e4af072874",
+    "name": "shashank",
+    "phone": "9663916748",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Sugarcane",
+      "Cotton",
+      "Cabbage"
+    ],
+    "password": "$2a$10$QeVgOvexcS0TxA/XgDWXEudtSsv4TgtMWLiHPcWr8ovoHIMsfpp.O",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-19T04:56:18.811Z"
+  },
+  {
+    "id": "20f755f6-67d5-4141-8e2d-4b229ace787f",
+    "name": "adithya",
+    "phone": "7975458717",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Cotton",
+      "Sugarcane",
+      "Carrot",
+      "Onion",
+      "Beans",
+      "Peas",
+      "Chili",
+      "Turmeric",
+      "Cabbage"
+    ],
+    "password": "$2a$10$dP4.irlcv7VAOI9aEAybg.Lk1ljlWTeci52bMcwhQ.p6pvWwr6b3.",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-19T05:08:05.931Z"
+  },
+  {
+    "id": "3ac6f738-6595-438e-bcc4-a9bafae5c0ef",
+    "name": "kushal",
+    "phone": "8861112323",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Maize",
+      "Groundnut",
+      "Beans"
+    ],
+    "password": "$2a$10$M599ZQvDmvD891THzKMZf.RF92vSPvmKvKMrZUyBZtN/RfKgx2Oh.",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-19T09:00:15.111Z"
+  },
+  {
+    "id": "b2e98059-aea1-43c9-9f56-7b89630aa601",
+    "name": "adithya",
+    "phone": "07975458717",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Groundnut",
+      "Coconut",
+      "Rice",
+      "Maize"
+    ],
+    "password": "$2a$10$zU1Pv7W2yDLvIEmV.95kdevSOTrTmU0chAVzYJ7.wSkvaXn0GVRWS",
+    "userType": "farmer",
+    "language": "kn",
+    "isActive": true,
+    "createdAt": "2025-11-19T15:30:57.545Z"
+  },
+  {
+    "id": "c54f90ef-b278-4fbb-8fdc-36462629d1c1",
+    "name": "xyw",
+    "phone": "9743042887",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Coconut",
+      "Groundnut",
+      "Maize"
+    ],
+    "password": "$2a$10$UuanX3iRWtH28kSg/CcO.e57OjU8IMxvV.gUlcoQdmLMhUyHibRLK",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-20T08:06:20.352Z"
+  },
+  {
+    "id": "aa9fc45d-3fed-461e-889d-60eafbcea575",
+    "name": "kushal",
+    "phone": "9972917964",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Rice",
+      "Wheat",
+      "Sugarcane",
+      "Tomato",
+      "Onion"
+    ],
+    "password": "$2a$10$TLcSWjDo4HJJ/xYFN8kNkuD/EI78e7C.i/vJ20kpublY1Ej/UsZtO",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-20T13:57:08.412Z"
+  },
+  {
+    "id": "ea84ab1f-462b-47a7-accc-47942503d14f",
+    "name": "xyz",
+    "phone": "5845634574",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Wheat",
+      "Maize"
+    ],
+    "password": "$2a$10$vXuE4LEGfijAg8lrwe1Kiukt8MU.XU2WtE7lNiAMecMhYGNkJxJzS",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-22T04:34:46.327Z"
+  },
+  {
+    "id": "d081764c-8ea4-457c-a52a-75cd45c66a74",
+    "name": "sanafetima",
+    "phone": "8861116565",
+    "state": "Karnataka",
+    "district": "banglore",
+    "crops": [
+      "Rice",
+      "Wheat",
+      "Onion"
+    ],
+    "password": "$2a$10$sL9fN6i48K890lg/ao.52.ewbJBIQhn/zm/MJ4VJsUuzW2nerf4DO",
+    "userType": "farmer",
+    "language": "en",
+    "isActive": true,
+    "createdAt": "2025-11-22T04:38:53.833Z"
+  }
+]

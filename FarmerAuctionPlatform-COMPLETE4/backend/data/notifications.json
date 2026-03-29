@@ -1,0 +1,132 @@
+[
+  {
+    "id": "267af603-41c1-4341-bd08-1591d51abde4",
+    "userId": "e9980513-4242-447c-b6cc-1a0f88b4878a",
+    "userType": "farmer",
+    "type": "info",
+    "title": "New Bid Received! 🎯",
+    "message": "A new bid of ₹15,500 has been placed on your Premium Tomatoes auction.",
+    "read": false,
+    "createdAt": "2025-05-29T02:24:24.130Z"
+  },
+  {
+    "id": "9ba99715-ed2e-44c7-a528-6d7cf7101ccd",
+    "userId": "81341a1c-8938-4aa8-adcb-d59b31fd59d0",
+    "userType": "buyer",
+    "type": "warning",
+    "title": "You have been outbid! ⚠️",
+    "message": "Someone placed a higher bid of ₹15,500 on the Premium Tomatoes auction.",
+    "read": false,
+    "createdAt": "2025-05-29T02:24:24.130Z"
+  },
+  {
+    "id": "264c8af0-7081-44fb-9b3b-9777ebfac382",
+    "userId": "12cdf79d-cce1-45a5-96f7-46b4afe724ba",
+    "userType": "farmer",
+    "type": "info",
+    "title": "New Bid Received! 🎯",
+    "message": "A new bid of ₹24,500 has been placed on your Nashik Red Onions auction.",
+    "read": false,
+    "createdAt": "2025-05-29T02:39:24.130Z"
+  },
+  {
+    "id": "a8736655-9391-4231-9ec5-e36301ef8f77",
+    "userId": "81341a1c-8938-4aa8-adcb-d59b31fd59d0",
+    "userType": "buyer",
+    "type": "warning",
+    "title": "You have been outbid! ⚠️",
+    "message": "Someone placed a higher bid of ₹24,500 on the Nashik Red Onions auction.",
+    "read": false,
+    "createdAt": "2025-05-29T02:39:24.130Z"
+  },
+  {
+    "id": "db27ecd7-610b-4651-9f66-0884afba8d86",
+    "userId": "e9980513-4242-447c-b6cc-1a0f88b4878a",
+    "userType": "farmer",
+    "type": "success",
+    "title": "Profile Verification Complete! ✅",
+    "message": "Your farmer profile has been verified. You can now create auctions with verified badge.",
+    "read": true,
+    "createdAt": "2025-05-28T02:54:24.130Z"
+  },
+  {
+    "id": "216dee25-57be-47fd-95bd-6b0d1d491fc8",
+    "userId": "suhas-buyer-id",
+    "userType": "buyer",
+    "type": "warning",
+    "title": "You have been outbid! ⚠️",
+    "message": "Someone placed a higher bid of ₹15,500 on the Premium Tomatoes auction.",
+    "read": false,
+    "createdAt": "2025-05-29T02:24:24.130Z"
+  },
+  {
+    "id": "1cdb8335-e571-478a-9804-b06404ec0d26",
+    "userId": "suhas-buyer-id",
+    "userType": "buyer",
+    "type": "warning",
+    "title": "You have been outbid! ⚠️",
+    "message": "Someone placed a higher bid of ₹24,500 on the Nashik Red Onions auction.",
+    "read": false,
+    "createdAt": "2025-05-29T02:39:24.130Z"
+  },
+  {
+    "id": "1438a1c9-c39e-4cfb-9230-0d10c8d70720",
+    "userId": "d47aa8d3-b3df-4b24-8440-57fd3836785a",
+    "userType": "buyer",
+    "title": "Auction Won!",
+    "message": "Congratulations! You won the auction for Premium Tomatoes",
+    "type": "success",
+    "read": false,
+    "createdAt": "2025-10-14T07:08:49.789Z"
+  },
+  {
+    "id": "2ce5d042-4d98-4922-81f7-9ea89a02c3ac",
+    "userId": "e9980513-4242-447c-b6cc-1a0f88b4878a",
+    "userType": "farmer",
+    "title": "Auction Sold!",
+    "message": "Your Premium Tomatoes auction has been sold for ₹15500",
+    "type": "success",
+    "read": false,
+    "createdAt": "2025-10-14T07:08:49.792Z"
+  },
+  {
+    "id": "320155bf-7593-4106-971e-c68b208bfce9",
+    "userId": "d47aa8d3-b3df-4b24-8440-57fd3836785a",
+    "userType": "buyer",
+    "title": "Auction Won!",
+    "message": "Congratulations! You won the auction for Nashik Red Onions",
+    "type": "success",
+    "read": false,
+    "createdAt": "2025-10-14T07:08:49.808Z"
+  },
+  {
+    "id": "93e2fb41-6a55-4416-9812-2af62fa4fd4a",
+    "userId": "12cdf79d-cce1-45a5-96f7-46b4afe724ba",
+    "userType": "farmer",
+    "title": "Auction Sold!",
+    "message": "Your Nashik Red Onions auction has been sold for ₹24500",
+    "type": "success",
+    "read": false,
+    "createdAt": "2025-10-14T07:08:49.813Z"
+  },
+  {
+    "id": "fb1f639f-53e5-4d88-b2eb-33d98ce65268",
+    "userId": "20f755f6-67d5-4141-8e2d-4b229ace787f",
+    "userType": "farmer",
+    "title": "New Bid Received! 🎯",
+    "message": "A new bid of ₹1,070 has been placed on your Maize auction.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2025-11-19T05:11:46.913Z"
+  },
+  {
+    "id": "ddcdd593-a524-4fdd-a6c1-3a2da5dfe669",
+    "userId": "d081764c-8ea4-457c-a52a-75cd45c66a74",
+    "userType": "farmer",
+    "title": "New Bid Received! 🎯",
+    "message": "A new bid of ₹1,100 has been placed on your Rice auction.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2025-11-22T04:46:09.431Z"
+  }
+]

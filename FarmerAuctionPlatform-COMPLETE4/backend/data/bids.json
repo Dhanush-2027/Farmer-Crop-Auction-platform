@@ -1,0 +1,66 @@
+[
+  {
+    "id": "de5088c2-5278-4828-b5c8-b7c8e9dd094a",
+    "auctionId": "cdd721f3-6026-421b-8a65-9738b8493acd",
+    "buyerId": "81341a1c-8938-4aa8-adcb-d59b31fd59d0",
+    "amount": 14700,
+    "timestamp": "2025-05-29T01:24:24.130Z",
+    "createdAt": "2025-05-29T01:24:24.130Z"
+  },
+  {
+    "id": "4f02fbe4-ddfb-4b19-b7f1-8b35601e7201",
+    "auctionId": "cdd721f3-6026-421b-8a65-9738b8493acd",
+    "buyerId": "d47aa8d3-b3df-4b24-8440-57fd3836785a",
+    "amount": 15500,
+    "timestamp": "2025-05-29T02:24:24.130Z",
+    "createdAt": "2025-05-29T02:24:24.130Z"
+  },
+  {
+    "id": "28439f4a-c866-44d8-b8b4-a2359a167dbd",
+    "auctionId": "63c0c02b-4e47-49f6-b8ea-79cf5bcf21c8",
+    "buyerId": "81341a1c-8938-4aa8-adcb-d59b31fd59d0",
+    "amount": 23100,
+    "timestamp": "2025-05-29T02:09:24.130Z",
+    "createdAt": "2025-05-29T02:09:24.130Z"
+  },
+  {
+    "id": "01651027-9d57-4887-b273-f7643b3e5f05",
+    "auctionId": "63c0c02b-4e47-49f6-b8ea-79cf5bcf21c8",
+    "buyerId": "d47aa8d3-b3df-4b24-8440-57fd3836785a",
+    "amount": 24500,
+    "timestamp": "2025-05-29T02:39:24.130Z",
+    "createdAt": "2025-05-29T02:39:24.130Z"
+  },
+  {
+    "id": "26366d22-c85c-4561-b26d-b8e6a833b18f",
+    "auctionId": "cdd721f3-6026-421b-8a65-9738b8493acd",
+    "buyerId": "suhas-buyer-id",
+    "amount": 14500,
+    "timestamp": "2025-05-29T01:54:24.130Z",
+    "createdAt": "2025-05-29T01:54:24.130Z"
+  },
+  {
+    "id": "06a0c714-cf2f-450d-9179-fdacce44b6ad",
+    "auctionId": "63c0c02b-4e47-49f6-b8ea-79cf5bcf21c8",
+    "buyerId": "suhas-buyer-id",
+    "amount": 23500,
+    "timestamp": "2025-05-29T02:24:24.130Z",
+    "createdAt": "2025-05-29T02:24:24.130Z"
+  },
+  {
+    "id": "c24db50d-78e1-4e00-badc-904bb6fd7ba6",
+    "auctionId": "96e9a424-76f1-4cbf-94d0-b754243c15a7",
+    "buyerId": "a5d711e0-a359-4236-a6ae-add5da9acbc8",
+    "amount": 1070,
+    "timestamp": "2025-11-19T05:11:46.910Z",
+    "createdAt": "2025-11-19T05:11:46.911Z"
+  },
+  {
+    "id": "ed14bee8-a05e-46e9-9d72-e6b17fd7cc9a",
+    "auctionId": "76791581-0752-4a1a-8728-adf8be61b780",
+    "buyerId": "239683e6-e509-4434-a607-eba8cbb441c6",
+    "amount": 1100,
+    "timestamp": "2025-11-22T04:46:09.427Z",
+    "createdAt": "2025-11-22T04:46:09.428Z"
+  }
+]
